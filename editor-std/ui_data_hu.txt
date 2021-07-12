@@ -1,41 +1,41 @@
 #Menu
-User = Benutzer
-Join... = Mitglied werden…
-Login... = Einloggen…
-Log in = Einloggen
-Logout = Ausloggen
-Change password... = Passwort ändern…
+User = Felhasználó
+Join... = Regisztráció…
+Login... = Bejelentkezés…
+Log in = Bejeletkezés
+Logout = Kilépés
+Change password... = Jelszó változtatás…
 User Preference = 
 System Settings... = 
 System Settings = 
 Crash = 
-Invite friends... = Freunde einladen…
-Language = Sprache
+Invite friends... = Ismerősök meghívása…
+Language = Nyelv
 Language Setting = 
-English = Englisch
-Polski (Polish) = Polnisch
-Deutsch (German) = Deutsch
-Français (French) = Französisch
-简体中文 (Chinese - Simplified) = Chinesisch vereinfacht
-正體中文 (Chinese - Traditional) = Chinesisch traditionell
-한국어 (Korean) = Koreanisch
+English = Angol
+Polski (Polish) = Lengyel
+Deutsch (German) = Német
+Français (French) = Francia
+简体中文 (Chinese - Simplified) = Egyszerűsített kínai
+正體中文 (Chinese - Traditional) = Hagyományos kínai
+한국어 (Korean) = Koreai
 日本語 (Japanese) = 
 Tiếng Việt (Vietnamese) = 
-Document Recovery = Dokument Wiederherstellung
-Your Preferences Information = Ihre Einstellungs Informationen
-File = Datei
-New = Neu
+Document Recovery = Dokumentum helyreállítása
+Your Preferences Information = Saját beállítások
+File = Fájl
+New = Új
 Project... = Projekt…
-Schematic = Schaltplan
+Schematic = Kapcsolási rajz
 Schematic-Simulation = 
-Spice Symbol = Spice Schaltsymbol
-Spice Subckt = Spice (Unter)Schaltsymbol
+Spice Symbol = Spice rajzjel
+Spice Subckt = Spice (jelölő)rajzjel
 spicePre = 
-PCB = PCB
+PCB = NYÁK
 Schematic Module = 
 PCB Module = 
-Save... = Speichern…
-Save As... = Speichern unter…
+Save... = Mentés…
+Save As... = Mentés másképp…
 Save As Module... = 
 Print = 
 Export Document = 
@@ -43,111 +43,111 @@ LTspice... = LTspice…
 Eagle... = Eagle…
 Altium... = Altium…
 Cadence... = Cadence…
-Pads... = Pads…
+Pads... = Forrszemek…
 DXF = 
-Import = Importieren
-Super Menu = Haupt Menue
+Import = Importálás
+Super Menu = Szupermenü
 
-Edit = Editieren
-Undo = Rückgängig
-Redo = Vorgängig
-Cut = Ausschneiden
-Copy = Kopieren
-Paste = Einsetzen
-Select = Auswählen
-Delete = Löschen
+Edit = Szerkesztés
+Undo = Mégse
+Redo = Újra
+Cut = Kivágás
+Copy = Másolás
+Paste = Beillesztés
+Select = Kijelölés
+Delete = Törlés
 Clear All = 
-Move = Bewegen
-Drag = Nehmen
-Bring to Front = Nach vorne bringen
-Send to Back = Nach hinten senden
-Align = Ausrichten
-Align Left = Links ausrichten
-Align Right = Rechts ausrichten
-Align Top = Oben ausrichten
-Align Bottom = Unten ausrichten
-Align Horizontal Centers = 
-Align Vertical Centers = 
+Move = Áthelyezés
+Drag = Megfog
+Bring to Front = Előtérbe hozás
+Send to Back = Háttérbe küldés
+Align = Igazítás
+Align Left = Balra igazítás
+Align Right = Jobbra igazítás
+Align Top = Felfelé igazítás
+Align Bottom = Lefelé igazítás
+Align Horizontal Centers = Vízszintes igazítás
+Align Vertical Centers = Függőleges igazítás
 Distribute Horizontally = 
 Distribute Vertically = 
 Distribute Left Edges Equidistantly = 
 Distribute Top Edges Equidistantly = 
 Align Grid = 
-Rotate = Drehen
-Rotate Left = Links drehen
-Rotate Right = Rechts drehen
-Flip Horizontal = Horizontal spiegeln
-Flip Vertical = Vertikal spiegeln
-Rotate and Flip = Drehen und spiegeln
-Group/Ungroup Symbol... = Gruppieren/Ungruppieren Zeichnung…
+Rotate = Elforgatás
+Rotate Left = Forgatás balra
+Rotate Right = Forgatás jobbra
+Flip Horizontal = Vízszintes tükrözés
+Flip Vertical = Függőleges tükrözés
+Rotate and Flip = Forgatás és tükrözés
+Group/Ungroup Symbol... = Rajzjelek csoportosítása/szétbontása…
 
 [menu_project]
-View = Ansichten
+View = Nézet
 [/menu_project]
 Find = 
-Zoom In = Vergrößern
-Zoom Out = Verkleinern
-Fit in Window = Am Fenster Anpassen
-Refresh = Auffrischen
-Snap = Schnappen
+Zoom In = Nagyítás
+Zoom Out = Kicsinyítés
+Fit in Window = Ablakhoz igazítás
+Refresh = Frissítés
+Snap = 
 Cross Cursor = 
-Toolbars = Werkzeugleiste
-Drawing Tools = Zeichen Werkzeuge
-Wiring Tools = Verdrahtung Werkzeuge
-Power Objects = Netz Objekte
-PCB Tools = PCB Werkzeuge
+Toolbars = Eszköztárak
+Drawing Tools = Rajzeszközök
+Wiring Tools = Vezetékező eszközök
+Power Objects = Táp objektumok
+PCB Tools = NYÁK eszközök
 Footprint Tools = 
 Layers Tool = 
 Layer Manager = 
 Enable and Show All Layers = 
 Net Visible = 
 Auto = 
-Digital Objects = Digital Objekte
+Digital Objects = Digitális objektumok
 Tools = 
 Arc Center = 
 Arc Type = 
 Center Point Arc = 
 Two-point Arc = 
 
-Place = Plazieren
-Drawing Tools = Zeichen Werkzeuge
-Arc = Bogen
-Elliptical Arc = elliptischer Bogen
-Ellipse = Ellipse
-Circle = Kreis
-Pie = Kuchen
-Line = Linie
-Polyline = Polylinie
-Rectangle = Rechteck
+Place = Elhelyezés
+Drawing Tools = Rajzeszközök
+Arc = Körív
+Elliptical Arc = Elliptikus körív
+Ellipse = Ellipszis
+Circle = Kör
+Pie = Körcikk
+Line = Vonal
+Polyline = Folytonos vonal
+Rectangle = Négyzet
 Rectangular = 
 The rectangle does not support non-90 degree rotation. Please use Solid Region instead. = 
 
-Rect = Rechteck Funktion
-Round Rectangle = Rechteck abgerundet
-Polygon = Vieleck
-Bezier = Bezierkurve
-Path = Pfad
-Graphic = Grafik
-Bus = Datenbus
-Bus Entry = Datenbus Einspeisung
-Junction = Verbindungsstelle
-Net Port = Netzanschluss
-Voltage Probe = Spannungsmesser
-Power Port = Spannungsanschluss
-Wire = Leitung
-Annotation = Anmerkung
-Track = Strecke
-Image = Bild
-Arrow Head = Pfeilspitze
+Rect = Téglalap
+Round Rectangle = Lekerekített téglalap
+Polygon = Sokszög
+Bezier = Beziergörbe
+Path = Nyomvonal
+Graphic = Grafika
+Bus = Adatbusz
+Bus Entry = Adatbusz bemenet
+Junction = Elágazás
+Net Port = Hálózati csatlakozás
+Voltage Probe = Feszültségmérő
+Power Port = Tápcsatlakozó
+Wire = Vezeték
+Annotation = Jelölés
+Track = Útvonal
+Image = Kép
+Arrow Head = Nyílhegy
 Arrowhead = 
 Arrow = 
 No Connect Flag = 
-Place = Plazieren
-Pin = Pin
+Place = Elhelyezés
+Pin = Érintkező
 Lock Selected Objects = 
 
-Miscellaneous = Verschiedenes
-Find Component = Finde Komponente
+Miscellaneous = Egyéb
+Find Component = Alkatrész keresése
 Component = 
 Footprint... = 
 This component is deleted! = 
@@ -162,9 +162,9 @@ Component ID reset successfully! =
 Convert to PCB = 
 Update PCB = 
 Shortcut Keys Setting = 
-Edit Symbol... = Symbol bearbeiten…
-Highlight Net... = Netz hervorheben…
-Simulate = Simuliere
+Edit Symbol... = Rajzjel szerkesztése...
+Highlight Net... = Kapcsolódás kiemelése…
+Simulate = Szimuláció
 Simulation = 
 Standard Mode = 
 Simulation Mode = 
@@ -189,25 +189,25 @@ LCEDA =
 Copy Result Image = 
 Export Result Image = 
 Simulation Result = 
-Simulation Results... = Simulations Ergebnisse…
+Simulation Results... = Szimuláció eredménye…
 Simulate this Sheet = 
 Simulate this Project = 
 Non-simulation mode, please switch to the simulation mode first and then run = 
-Run the Document = Dokument ausführen
-Run the Project... = Projekt ausführen…
-Netlist for Document = Netzliste für das Dokument
-Netlist for Project = Netzliste für das Projekt
+Run the Document = Dokumentum futtatása
+Run the Project... = Projekt futtatása…
+Netlist for Document = Netlsta a dokumentumhoz
+Netlist for Project = Netlista a projekthez
 LTspice for This Sheet... = 
 Spice for this Project... = 
-Protel/Altium for PCB... = Protel/Altium für PCB…
+Protel/Altium for PCB... = Protel/Altium a NYÁK-hoz…
 PADS for PCB... = 
-FreePCB for PCB... = FreePCB für PCB…
-Eagle for PCB... = Eagle für PCB…
-Kicad for PCB... = Kicad für PCB…
-OrCAD for PCB... = OrCAD für PCB…
-BOM report... = BOM Report…
-BOM for Document... = BOM für das Dokument…
-BOM for Project... = BOM für das Projekt…
+FreePCB for PCB... = FreePCB a NYÁK-hoz…
+Eagle for PCB... = Eagle a NYÁK-hoz…
+Kicad for PCB... = Kicad a NYÁK-hoz…
+OrCAD for PCB... = OrCAD a NYÁK-hoz…
+BOM report... = BOM lista…
+BOM for Document... = BOM a dokumentumhoz…
+BOM for Project... = BOM a projekthez…
 Pin Manager... = 
 Spice Model... = 
 Layer Manager... = 
@@ -232,18 +232,18 @@ Delete Segments =
 Unroute Connections = 
 Unroute Connection = 
 Unroute Nets = 
-Select = Auswählen
+Select = Kijelölés
 Segments = 
 Connection = 
-Net = Netz
+Net = Net
 Apply Design Rule While Routing and Auto Placing Via = 
 
-Add SubPart = (Unter)Teil hinzufügen
-Annotate... = kommentieren…
-Config = Konfigurieren
+Add SubPart = (al)alkatrész hozzáadása
+Annotate... = megjelölés…
+Config = Konfiguráció
 
-Help = Hilfe
-About = Über
+Help = Súgó
+About = Névjegy
 Shortcut Keys = 
 FAQ = 
 Tutorials = 
@@ -288,20 +288,20 @@ Order FAQ =
 Order Process = 
 Full Screen = 
 
-Support = Unterstützung
+Support = Támogatás
 [leftNavTabs]
-Support = Unterstützung
+Support = Támogatás
 [/leftNavTabs]
-Historical Records... = Historie Aufnahme…
+Historical Records... = Előzmények…
 Extensions = 
-Order PCB... = Bestelle PCB…
-Import Changes = Importiere Änderungen
+Order PCB... = NYÁK rendelés…
+Import Changes = Változtatások importálása
 Press {0}F11{1} to switch to full screen. = 
-Delete Selected = Lösche Ausgewähltes
-Simulate... = Simulieren…
-Config = Konfigurieren
+Delete Selected = Kijelöltek törlésee
+Simulate... = Szimuláció…
+Config = Konfiguráció
 Terms of Service & Privacy Policy = 
-Help Topics = Hilfethemen
+Help Topics = Súgó témakörök
 3D Model(obj) = 
 3D Model(step) = 
 SVG Source... = 
@@ -334,21 +334,21 @@ By Center of Pads =
 By Center Grid of Symbols = 
 
 #Schematic Canvas Attributes
-Properties = Eigenschaften
-Attributes = Merkmale
-Apply = Anwenden
-Save as default = Als Voreinstellung speichern
-Canvas Attributes = Zeichenblatt Merkmale
-Width = Breite
-Height = Höhe
-Background = Hintergrund
-Visible Grid = Sichtbares Raster
+Properties = Tulajdonságok
+Attributes = Jellemzők
+Apply = Alkalmaz
+Save as default = Mentés alapértelmezettként
+Canvas Attributes = Rajzterület jellemzői
+Width = Szélesség
+Height = Magasság
+Background = Háttér
+Visible Grid = Négyzetrács
 Grid Visible = 
 Real-Time Track Length = 
 Display Real-Time Track Length = 
-Grid Color = Raster Farbe
-Grid Size = Raster Größe
-Grid Style = Raster Stil
+Grid Color = Négyzetrács színe
+Grid Size = Négyzetrács mérete
+Grid Style = Négyzetrács típusa
 Grid.Line Width = 
 Grid.Line Spacing = 
 Copper to Board Outline = 
@@ -358,23 +358,23 @@ Stroke Color =
 Stroke Width = 
 Stroke Style = 
 Fill Color = 
-Selected Objects = Ausgewählte Objekte
-Frame Size = Rahmengröße
+Selected Objects = Kijelölt objektumok
+Frame Size = Keret mérete
 Alt Snap = 
 Snap size when pressing the Alt key = 
 Prefix Start = 
 
 #Text Attributes
-Text Attributes = Texteigenschaften
-Text = Text
-Color = Farbe
+Text Attributes = Feliratjellemzők
+Text = Felirat
+Color = Szín
 Font Family = 
 Font Size = 
 Font Weight = 
 Font Style = 
 Text Type = 
 Text Anchor = 
-Baseline = Basislinie
+Baseline = Alapvonal
 (Auto) = 
 (auto) = 
 start = 
@@ -707,8 +707,8 @@ AC Phase =
 There are some parts haven't spice model, please use "EElib" and "Spice Symol" at "Libraries" of "Simulation" mode, or you can assign the spice model for them: = 
 
 #Pin
-Pin Attributes = Pin Eigenschaften
-Orientation = Orientierung
+Pin Attributes = Érintkező jellemzők
+Orientation = Tájolás
 Line 45° = 
 Line 90° = 
 Arc 45° = 
@@ -716,33 +716,33 @@ Arc 90° =
 Free Angle = 
 Start X = 
 Start Y = 
-Length = Länge
-Name = Name
+Length = Hosszúság
+Name = Név
 name = 
-Number = Nummer
+Number = Szám
 Spice Pin Order = 
 Display Number = 
-Clock = Clock
-Show = Show
-Electric = Electric
+Clock = Óra
+Show = Mutat
+Electric = Elektromos
 
 #Junction
-Junction Attributes = Verbindungsstelle Eigenschaften
+Junction Attributes = Elágazás jellemzői
 X Location = 
 Y Location = 
-Size = Größe
-Color = Farbe
+Size = Méret
+Color = Szín
 
 #Net Label
-Net Label = Netzbeschriftung
+Net Label = Net címke
 
 #Part
-Prefix = Vorsilbe
+Prefix = Előjel
 
 #Image Attributes and Dialog
 Add Image = 
-Image Attributes = Bildeigenschaften
-Image URL = Verweis Internet
+Image Attributes = Kép jellemzői
+Image URL = Kép URL-je
 Input an image URL = 
 Invalid image URL = 
 Invalid Prefix = 
@@ -772,32 +772,32 @@ Simplify Level =
 Corner Threshold = 
 
 #PCB Canvas Attributes
-Units = Einheiten
-Snap Size = Einrastgröße
+Units = Mértékegység
+Snap Size = Igazítási méret
 Other = Andere
-Routing Width = Verlegebreite
+Routing Width = Tervezési szélesség
 [router]
-Routing Width = Verlegebreite
+Routing Width = Tervezési szélesség
 [/router]
 Please using hotkey {0}{shiftw}{1} or {2}{tab}{3} to change track width while on routing. = 
-Routing Angle = Verlegewinkel
+Routing Angle = Tervezési szög
 Routing Conflict = 
 Remove Loop = 
 Cut SilkScreen = 
 Grid = Raster
 Grid 90 = 
 Grid 45 = 
-Copper Zone = Kupferzone
-Visible = Sichtbar
-Invisible = Unsichtbar
+Copper Zone = Réz terület
+Visible = Látható
+Invisible = Rejtett
 Ignore = 
 Block = 
 RoundTrack = 
 
 #Track
-Track Properties = Leiterbahneigenschaften
-Layer = Lage
-Net = Netz
+Track Properties = útvonal jellemzői
+Layer = Réteg
+Net = Net
 Start X = 
 Start Y = 
 End X = 
@@ -805,9 +805,9 @@ End Y =
 ID = ID
 
 #Pad Properties
-Pad Properties = Pad Eigenschaften
-Shape = Form
-Hole(D) = Lochdurchmesser
+Pad Properties = Forrszem jellemzői
+Shape = Alak
+Hole(D) = Lyukátmérő
 Center X = 
 Center Y = 
 Round = 
@@ -822,7 +822,7 @@ Solder Mask Expansion =
 
 #Via Properties
 Via Properties = 
-Diameter = Durchmesser
+Diameter = Átmérő
 Drill Diameter = 
 
 #Hole Properties
@@ -830,13 +830,13 @@ Hole Properties =
 
 
 #TEXT
-Text Properties = Texteigenschaften
+Text Properties = Felirat jellemzői
 Line Width = 
-Rotation = Drehung
+Rotation = Elforgatás
 Fonts Management = 
 
 #Dimension Attributes
-Dimension Attributes = Abmessung Eigenschaften
+Dimension Attributes = Méret jellemzők
 
 #Footprint Attributes
 Component Attributes = 
@@ -848,35 +848,35 @@ Graphics =
 Pattern = 
 
 #Arc Properties
-Arc Properties = Bogen Eigenschaften
+Arc Properties = Körív jellemzők
 Start Angle = 
 End Angle = 
 Rotation Direction = 
 
 #Rect Properties
-Rect Properties = Rechteck Eigenschaften
-Round radius = Runder Radius
+Rect Properties = Négyzet jellemzők
+Round radius = Lekerekítés sugara
 
 #Circle Properties
-Circle Properties = Kreis Eigenschaften
-Radius = Radius
+Circle Properties = Kör jellemzői
+Radius = Sugár
 
 #CopperArea Properties
-CopperArea Properties = Kupferbereich Eigenschaften
-Clearance = Zwischenraum
-Pad Connection = Pad Verbindungen
-Direct = Direkt
-Spoke = Speichenförmig
-Keep Island = Einzelne Bereiche
-Fill Style = Füllstil
-CopperArea conflict: copper area outlines in same layer with different net names must not overlap = Kupferbereichs Konflikt: Kupfer Konturen in der gleichen Lage mit unterschiedlichen Netznamen dürfen nicht überlappen.
+CopperArea Properties = Rézréteg jellemzői
+Clearance = Tisztaság
+Pad Connection = Forrszem kapcsolat
+Direct = Közvetlen
+Spoke = Küllőszerű
+Keep Island = Szigetes
+Fill Style = Kitöltési stílus
+CopperArea conflict: copper area outlines in same layer with different net names must not overlap = Rézréteg ütközés: rézréteg körvonal ugyanazon a rétegen más net névvel nem lehet átfedésben.
 Copper area rebuild complete! You can set "Copper Zone" as "Visible" at the right-hand property panel after single click the empty area. = 
 Please create board outline first. = 
-Board outlines are not closed. = Platinenumriss ist nicht geschlossen.
-Rebuild CopperArea = Kupferbereich neu aufbauen
+Board outlines are not closed. = Panel körvonal nem lett lezárva.
+Rebuild CopperArea = Rézréteg újrarajzolása
 Edit Points = 
-Direct = Direkt
-Spoke = Speichenförmig
+Direct = Közvetlen
+Spoke = Küllőszerű
 No Solid = 
 Board Cutout = 
 Solid = 
@@ -885,9 +885,9 @@ None =
 [/copperArea]
 
 #Custom Attributes
-Custom Attributes = Benutzerdefinierte Eigenschaften
+Custom Attributes = Egyéni jellemzők
 Fixed Attributes = 
-Add new parameter = Neuen Parameter
+Add new parameter = Új paraméter adása
 Add New Parameter = 
 Add New Supplier = 
 Mounted = 
@@ -899,7 +899,7 @@ How to create a single layer PCB =
 Currently doesn't support layout single layer directly, please refer at: = 
 
 #Dialog Register
-Create an account = Konto einrichten
+Create an account = Fiók létrehozása
 Username = 
 Password = 
 Confirm Password = 
@@ -908,15 +908,15 @@ Please read this before you register = Bitte vorher lesen bevor Sie sich anmelde
 Hi {username} = 
 
 #Dialog lostPassword
-Lost Password... = Passwort verloren
-Find the password using your email = Passwort anhand Ihrer E-Mail wiederherstellen
+Lost Password... = Elveszett jelszó
+Find the password using your email = Email-ben elküldtük a jelszót
 
 
 
 #Dialog Login
-Login = Login
+Login = Bejelentkezés
 Username or Email = 
-Remember Me = Einstellung speichern
+Remember Me = Emlékezzen rám
 Third party = 
 Login and Register = 
 Your login information seems expired, please login again. Don't need to close the opening files, you can continue to save them after login. = 
@@ -929,11 +929,11 @@ Your registered email =
 Re-send an activation code to your email = 
 
 #Dialog Invite
-Invite friends to register = Freunde zur Anmeldung einladen
+Invite friends to register = Ismerősök meghívása
 Your friend's email = 
 
 #Dialog Add A New Parameter
-Add a new parameter = Neuen Parameter hinzufügen
+Add a new parameter = Új paraméter hozzáadása
 Key = 
 Value.new_para = 
 In BOM = 
@@ -942,19 +942,19 @@ Invalid key =
 This field is required. = 
 
 #Dialog Change Your Password
-Change your password = Passwort ändern
+Change your password = Jelszóváltoztatás
 Old password = 
 New Password = 
 Confirm Password = 
 
 #Dialog Create New Design
 Save as a New Project = 
-Save as a schematic = Als Schaltplan speichern
+Save as a schematic = Mentés kapcsolási rajzként
 Save as Symbol = 
-Save as a spice Symbol = Als Spice Schaltsymbol speichern
-Save as a spice subckt = Als Spice (Unter)Schaltsymbol speichern
-YOU MUST CREATE A SPICE SYMBOL WITH EXACTLY THE SAME NAME AS THIS SUBCKT = Sie müssen ein Spice Schaltsymbol mit exakt dem gleichen Namen erzeugen wie das (Unter)Schaltsymbol.
-Save as a PCB file = Als PCB Datei speichern
+Save as a spice Symbol = Mentés spice rajzjelként
+Save as a spice subckt = Mentés spice blokk-ként
+YOU MUST CREATE A SPICE SYMBOL WITH EXACTLY THE SAME NAME AS THIS SUBCKT = Létre kell hoznod egy spice rajzjelet pontosan olyan néven mint ez a blokk.
+Save as a PCB file = Mentés NYÁK fájlként
 Save as Footprint = 
 Save as a Schematic Module = 
 Save as a PCB Module = 
@@ -981,10 +981,10 @@ Categories =
 Project = 
 Short description = 
 Content = 
-Modify this project info. = Diese Projektinfo ändern.
-Modify this file info. = Diese Dateiinfo ändern.
+Modify this project info. = Projekt adatainak módosítása.
+Modify this file info. = Fájl adatainak módosítása.
 Notice = 
-Search for it before creating a new one. = Finden Sie es zuerst bevor Sie es neu Erzeugen.
+Search for it before creating a new one. = Keress rá mielőtt újat hozol létre.
 Manufacturer Part Number = 
 Supplier = 
 Or = 
@@ -997,15 +997,15 @@ The professional function please refer at: =
 #Dialog Clone My Part
 #Clone it to a project
 #Clone it, then edit it
-Clone your file = Klonen Sie Ihre Datei
+Clone your file = Fájl klónozása
 
 #Dialog Subckt
-Attach a Subckt to this spice symbol = (Unter)Schaltsymbol zu diesem Spice Schaltsymbol einarbeiten.
+Attach a Subckt to this spice symbol = Blokk csatolása ehhez a spice rajzjelhez.
 Subckt string = 
 Spice symbol title just allow [0-9][a-z][A-Z] and _
 
 #Design Manager
-Design Manager = Design Manager
+Design Manager = Tervkezelő
 Nets = 
 DRC Errors = 
 Are you sure you want to unroute this net? = 
@@ -1017,13 +1017,13 @@ Design Rule Checking =
 Board Outline = 
 Plane Zone = 
 [drcRule]
-Width = Breite
+Width = Szélesség
 DRC Width = 
-Length = Länge
+Length = Hosszúság
 DRC Length = 
 Drill Diameter = 
 DRC Drill Diameter = 
-Diameter = Durchmesser
+Diameter = Átmérő
 DRC Diameter = 
 Object = 
 DRC Clearance = 
@@ -1040,19 +1040,19 @@ The track length is longer than Design Rule Checking (DRC) track length =
 The track width is less than Design Rule Checking (DRC) track width = 
 
 #Dialog Simulation
-Show your simulation report = Ihren Schaltplan Report zeigen
-Download netlist = Netzliste herunterladen
-Run = Starten
+Show your simulation report = Szimuláció eredményének mutatása
+Download netlist = Netlista letöltése
+Run = Futtatás
 Components = 
 
 #Dialog Import
-Import file from your computer = Datei von Ihrem Computer importieren
+Import file from your computer = fájl importálás saját számítógépről
 Maximum file size: 30 MB = 
 Maximum file size: 100 MB = 
 Chose file = 
-File Operation = Datei Operation
-Import File = Datei importieren
-Extract Libs = Bibliotheken entpacken
+File Operation = Fájlművelet
+Import File = Fájl importálása
+Extract Libs = Könyvtárak kicsomagolása
 Import File and Extract Libs = 
 File type = 
 The file size is too large. = 
@@ -1064,7 +1064,7 @@ Click OK to continue with the import =
 Select None = 
 
 #Dialog Modify Symbol Information
-Modify symbol information = Schaltsymbol Informationen ändern
+Modify symbol information = Rajzjel információk módosítása
 Spice Prefix = 
 Hide Pin = 
 Pin Manager = 
@@ -1081,7 +1081,7 @@ Manufacturer.bom =
 
 One-click Purchasing at LCSC = 
 Order Parts/Check Stock = 
-Export BOM = Exportiere BOM
+Export BOM = BOM lista exportálása
 Export PCB BOM = 
 Export Schematic BOM = 
 ID.bom = 
@@ -1102,49 +1102,49 @@ Manufacturer =
 Manufacturer Part = 
 
 #Dialog Run
-Run your simulation = Starten Sie Ihre Simulation
-Transient = Transient
+Run your simulation = Szimuláció futtatása
+Transient = Tranziens
 Maximum Timestep = 
 Stop Time = 
 Start Time = 
 
-AC Analysis = AC Analyse
+AC Analysis = AC analízis
 Type of Sweep = 
 Number of points = 
 Start Frequency = 
 Stop Frequency = 
 
-DC sweep = DC Abtastung
+DC sweep = DC pásztázás
 Source to Sweep = 
 Start Value = 
 Stop Value = 
 Increment = 
-DC Transfer = DC Transfer:
+DC Transfer = DC átvitel:
 Output = 
 Source = 
 
 DC op pnt = 
-Compute the DC operating point treating capacitances as opens and inductances as shorts = Berechne den DC Betriebspunkt wie mit offenen Kondensatoren und mit kurzgeschlossenen Induktivitäten.
+Compute the DC operating point treating capacitances as opens and inductances as shorts = DC munkapont kiszámítása amelynél a kondenzátorokat szakadásként a tekercseket rövidzárként kezeljük. 
 
 #Dialog Share Info
-Active File = Aktive Datei
-Active Project = Aktives Projekt
-Embed it in your html files. = In Ihre HTML Datei einbetten.
+Active File = Jelenlegi fájl
+Active Project = Jelenlegi projekt
+Embed it in your html files. = Beillesztés a HTML kódodba .
 Share it by e-mail, IM, blog, etc. = 
-BBCode (used by many online discussion forums) = BBCode (Wird in den meisten Onlineforen benutzt)
-HTML code = HTML Code
-QRCode (Share your schematic address by QRCode ) = QRCode (Verteile deinen Schaltplan Adresse durch einen QRCode)
-Short Url = Kurze Url
-Share a copy of this document = Teile eine Kopie diese Dokuments
-Readonly = Nur Lesen
-Editable = Veränderbar
+BBCode (used by many online discussion forums) = BBCode (sok fórum ezt használja)
+HTML code = HTML kód
+QRCode (Share your schematic address by QRCode ) = QR kód (A rajzod megosztása QR kód segítségével)
+Short Url = Rövid Url
+Share a copy of this document = Ennek a dokumentumnak a másolatának megosztása
+Readonly = Csak olvasható
+Editable = Szerkeszthető
 Active file's owner project page = 
 Active project editor page = 
 Active file image URL = 
 
 #Dialog Document Recovery
 All Projects = 
-Document Recovery = Dokument Wiederherstellung
+Document Recovery = Dokumentum helyreállítása
 Unsaved files = 
 Please select a file! = 
 Please expand the folder first, then select a document to recover. = 
@@ -1195,7 +1195,7 @@ Report error success, thanks for your report! =
 The content must be at least 2 characters! = 
 This library is user contributed, please check before using. = 
 [lib]
-All = Alle
+All = Mind
 System = 
 Personal = 
 Created = 
@@ -1234,23 +1234,23 @@ Voltage - Max =
 Current - Output = 
 
 #Dialog Export Your Works
-Export your works = Exportieren Sie Ihre Arbeit
+Export your works = A munkád exportálása
 Export to = 
 Zoom = 
 Image Type = 
 Qualify = 
-0 means real size = 0 bedeutet original Größe
-Merged layer = Vereinigte Lagen
-Separated layer = getrennte Lagen
+0 means real size = a 0 valós méretet jelent 
+Merged layer = Összevont réteg
+Separated layer = Különálló réteg
 Paged layer = 
 Layer = Lage
-Export = Export
-Mirror = Spiegel
-TopLayer = ObereLage
-BottomLayer = UntereLage
-TopSilkLayer = ObereBeschriftungslage
+Export = Exportálás
+Mirror = tükrözés
+TopLayer = Felső réteg
+BottomLayer = Alsó réteg
+TopSilkLayer = Felső szita réteg
 Protractor Attributes = 
-BottomSilkLayer = UntereBeschriftungslage
+BottomSilkLayer = Alsó szita réteg
 #后面还有个BoardOutline,仅仅一个字母大小写的差别
 BoardOutLine = 
 TopAssembly = 
@@ -1259,7 +1259,7 @@ Mechanical =
 DocumentLayer = 
 Inner{number} = 
 Substrate{number} = 
-Color = Farbe
+Color = Szín
 Full Color = 
 Canvas Setting = 
 Full Graphics = 
@@ -1276,11 +1276,11 @@ Engine =
 Exporting PDF = 
 Export 3D Model = 
 [exportDocument]
-Size = Größe
+Size = Méret
 [/exportDocument]
 
 #Dialog Import Changes
-Confirm Importing changes information = Importierte Änderungen Bestätigen
+Confirm Importing changes information = Importálási változtatások jóváhagyása
 You can't undo this operation, Please run a Design Rule Checking (DRC) after this operation. = 
 Apply Changes = 
 This is a simple Design Rule Checking (DRC). = 
@@ -1290,12 +1290,12 @@ Yes, Check Nets =
 No, Keep Going = 
 
 #Dialog Layer Manager
-Configured = Konfigurieren
-Layer Name = Lagen Name
+Configured = Konfigurált
+Layer Name = Réteg neve
 TopPasterLayer = 
 BottomPasterLayer = 
-TopSolderLayer = ObereLötLage
-BottomSolderLayer = UntereLötlage
+TopSolderLayer = Felső forrasztási réteg
+BottomSolderLayer = Alsó forrasztási réteg
 TopPasteMaskLayer = 
 BottomPasteMaskLayer = 
 TopSolderMaskLayer = 
@@ -1303,30 +1303,30 @@ BottomSolderMaskLayer =
 ComponentShapeLayer = 
 LeadShapeLayer = 
 ComponentMarkingLayer = 
-Ratlines = Leiterbahnen(Unverlegt)
+Ratlines = Nyomvonal
 Ratlines Color = 
 Manage Colors = 
-BoardOutline = Platinenumriss
+BoardOutline = Panel körvonal
 Multi-Layer = 
-Hole = Bohrung
-DRCError = DRCFehler
-Setting = Einstellung
-Drawing area = Zeichenbereich
+Hole = Lyuk
+DRCError = DRC ellenőrzés
+Setting = Beállítások
+Drawing area = Rajzterület
 Export area = 
 Transparency(%) = 
 Copper Layer = 
 Signal = 
 Plane = 
 Non-Signal = 
-Other = Andere
+Other = Másik
 Please delete all the objects of the layers first! The layers are: = 
 You are converting Signal Layer to Plane Layer, There're some non-track objects remain on following layers. Please delete the objects manually on the canvas. = 
 Please delete all the objects of this layer first! = 
 
 #Dialog Fabrication Output
-Create Files = Erzeuge Dateien
+Create Files = Fájlok létrehozása
 Check your {0}Gerber files{1} carefully before sending them to the factory = 
-Download free Gerber Viewer (gerbv) = Laden Sie den freien Gerber Viewer (gerbv) herunter
+Download free Gerber Viewer (gerbv) = Ingyenes Gerber Viewer (gerbv) letöltése
 Before generating the Gerber files = 
 Please check the packages size and orientation carefully. = 
 Please check for Design Rule Checking (DRC) errors in the Design Manager. = 
@@ -1337,16 +1337,16 @@ Found the complicated polygon object can not be generated at Gerber, please remo
 ID: {id}, Object: {object}, Location: {location} = 
 
 #Dialog DRC
-Item = Artikel
-Value = Wert
+Item = Elem
+Value = Érték
 value = 
-Unit = Einheit
-Track Width = Strichdicke
-Track to Track = Strich zu Strich
-Track to Pad = Strich zu Pad
-Pad to Pad = Pad zu Pad
+Unit = Mértékgység
+Track Width = Vezetősáv szélesség
+Track to Track = Vezetősávok távolsága
+Track to Pad = Forrszemek és vezetősávok távolsága
+Pad to Pad = Forrszemek közötti távolság
 Via to Via = 
-Via Hole Size = Durchgangbohrungs Größe
+Via Hole Size = Átkötőfurat mérete
 Realtime DRC = 
 {0} is too small! = 
 Invalid DRC Rule = 
@@ -1366,7 +1366,7 @@ Duplicate rule name exists! =
 via diameter is smaller than via drill diameter! = 
 Currently rule name is not allowed to contain magical characters like . and $ = 
 [drcRule]
-All = Alle
+All = Mind
 [/drcRule]
 
 #Dialog  Update PCB
@@ -1387,11 +1387,11 @@ Cycle Backward to the Previous Open Tabbed Document =
 Switch to the Previous Layer(on the Numeric Keypad) = 
 Switch to the Next Layer(on the Numeric Keypad) = 
 Toggle Layers Which is Not Active = 
-Hotkey Setting = Schnelltasten Einstellung
-Document Type = Dokumententyp
-Shortcut = Verknüpfung
-Function = Funktion
-ALL = Alle
+Hotkey Setting = Gyorsbillentyű beállítások
+Document Type = Dokumentum típus
+Shortcut = Parancsikon
+Function = Művelet
+ALL = Mind
 SCH = SCH
 Rotate Selected Objects = 
 Scroll or Move Selected Left = 
@@ -1401,50 +1401,50 @@ Scroll or Move Selected Down =
 Set canvas origin to the center grid of graphics in symbol; Set canvas origin to the center of pads in footprint. = 
 Cross Document Paste = 
 Explore & Find Components = 
-Select All = Alles Auswählen
+Select All = Összes kijelölése
 Cancel Current Drawing = 
-Save = Speichern
-Drag Tool = Nehme Werkzeug
-Draw Wire = Zeichne Leitung
-Draw Bus = Zeichne Datenbus
-Bus Entry = Datenbus Einspeisung
-Junction = Verbindungsstelle
+Save = Mentés
+Drag Tool = Markoló
+Draw Wire = Vezeték rajzolás
+Draw Bus = Adatbusz rajzolás
+Bus Entry = Adatbusz bemenet
+Junction = Elágazás
 Net Flag GND = 
 Net Flag = 
-Draw Polyline = Zeichne Polyline
-Draw Polygon = Zeichne Vieleck
-Draw Bezier = ZeichnenBezierkurve
-Draw Arc = Zeichne Bogen
-Draw Rect = Zeichne Rechteck
-Draw Ellipse = Zeichne Ellipse
-Freehand Draw = Freihandzeichnung
+Draw Polyline = Folytonos vonal rajzolás
+Draw Polygon = Sokszög rajzolás
+Draw Bezier = Beziergörbe rajzolás
+Draw Arc = Körív rajzolás
+Draw Rect = Négyzet rajzolás
+Draw Ellipse = Ellipszis rajzolás
+Freehand Draw = Szabadkézi rajz
 Freedraw = 
-Draw Text = Zeichne Text
-Edit Selected Symbol = Editiere Ausgewähltes Schaltsymbol
-Draw Track = Zeichne Strich
-Draw Circle = Zeichne Kreis
+Draw Text = Felirat rajzolás
+Edit Selected Symbol = A kijelölt rajzjel szerkesztése
+Draw Track = Útvonal rajzolás
+Draw Circle = Kör rajzolás
 Cycle Select Object at Current Location = 
-Draw Dimension = Zeichne Abmaße
-Draw Connect = Zeichne Verbindung
-Draw CopperArea = Zeichne Kupferbereich
+Draw Dimension = Méretezés rajzolás
+Draw Connect = Csatlakozás rajzolás
+Draw CopperArea = Rézréteg rajzolás
 Change to TopLayer;<br/>Change Seleted Component's Layer to TopLayer; = 
 Change to BottomLayer;<br/>Change Seleted Component's Layer to BottomLayer; = 
 Change to Inner1 = 
 Change to Inner2 = 
 Change to Inner3 = 
 Change to Inner4 = 
-Highlight Net = Netz hervorheben
-Place Pad = Platziere Pad
-Place Via = Platziere Bohrung
-Measure = Messen
-Change Routing Angle = Wechsle Verlegewinkel
+Highlight Net = Net kiemelése
+Place Pad = Forrszem elhelyezés
+Place Via = Átkötőfurat elhelyezés
+Measure = Mérés
+Change Routing Angle = Hajlítási szög változtatása
 Change Routing Conflict = 
-Decrease Routing Width = Verkleinere Verlegedicke
-Increase Routing Width = Vergrößere Verledicke
-Decrease Snap Size = Vergrößere Einrastgröße
-Increase Snap Size = Verkleinere Einrastgröße
+Decrease Routing Width = Tervezési szélesség csökkentése
+Increase Routing Width = Tervezési szélesség növelése
+Decrease Snap Size = Rácsragazítási méret csökkentése
+Increase Snap Size = Rácsraigazítási méret növelése
 Change Copper Zone Visible or Invisible = 
-Rebuild All Copper Area = Kupferbereiche neu aufbauen
+Rebuild All Copper Area = Az összes rézréteg újratervezése
 Toggle PCB Net Display = 
 Show Attribute Dialog When Placing Object;<br/>Show Location Setting Dialog When Pasting Object(s) = 
 Show Attribute Dialog When Placing Object;<br/>Show Absolute Offset Dialog When Selecting Object(s);<br/>Show Location Setting Dialog When Pasting Object(s) = 
@@ -1455,18 +1455,18 @@ Choose Favorite Track Width While Routing =
 Copy Selected Object(s) and Paste Repeatedly = 
 
 #My Projects Tree Menu
-New Project = Neues Projekt
+New Project = Új projekt
 New Schematic = 
 New PCB = 
 New Spice Subckt = 
 Modify = Ändern
 Delete = Löschen
-Add sub part = Zum (Unter)Teil hinzufügen
-Clone = Klonen
+Add sub part = (al)alkatrész hozzáadása
+Clone = Klónozás
 Version History = 
 Refresh List = 
 Create New Project = 
-Delete = Löschen
+Delete = Törlés
 Attachment = 
 Archive = 
 Transfer = 
@@ -1481,12 +1481,12 @@ Hole should be inside the pad =
 Hole is draggable = 
 
 #My Part Tree Menu
-Clone = Klonen
+Clone = Klónozás
 Reload parts = Teile neuladen
-Layers = Lagen
+Layers = Rétegek
 
 #Dialog Preferences
-Language = Sprache
+Language = Nyelv
 Display Name = 
 HotKey Sync = 
 My Theme Sync = 
@@ -1495,75 +1495,75 @@ Enable auto backup =
 Maximum backup level = 
 Auto backup interval = 
 minutes = 
-Save to Server = Auf dem Server speichern
-Load from Server = Vom Server Laden
+Save to Server = Mentés a szerverre
+Load from Server = Letöltés a szerverről
 
 
 #Dialog Schematic Library Wizard
 Symbol Wizard = 
 Style = 
-Picture = Bild
+Picture = Kép
 Pin Names = 
 Contributor = 
 contributor = 
 owner = 
 
 #Dialog Annotate
-Annotate = Kommentieren
-Scope = Anwendungsbereich
-Active Schematic only = Nur aktiver Schaltplan
-All Opened Schematics = Alle geöffneten Schaltpläne
-Method = Verfahren
-Re-annotate all = Alle Neukommentieren
-Keep existing annotation = Existierende Kommentare beibehalten
-Direction = Richtung
-Rows = Reihen
-Cols = Cols
-Reset = Zurücksetzen
+Annotate = Megjelölés
+Scope = Érvényességi terület
+Active Schematic only = Csak az aktív kapcsolási rajz
+All Opened Schematics = Minden megnyitott kapcsolási rajz
+Method = Módszer
+Re-annotate all = Összes újra megjelölése
+Keep existing annotation = Meglévő megjelölések meghagyása
+Direction = Irány
+Rows = Sorok
+Cols = Oszlopok
+Reset = Alaphelyzet
 
 #Dialog Order
-Order... = Bestellen…
-PCB Qty. = PCB Anzahl
-PCB Thickness = PCB Dicke
-PCB Dimension = PCB Abmaße
-Automatic calculation = Automatische Kalkulation
-PCB Color = PCB Farbe
-Green = Grün
-White = Weiß
-Blue = Blau
-Red = Rot
-Yellow = Gelb
-Black = Schwarz
+Order... = Megrendelés…
+PCB Qty. = NYÁK mennyisége
+PCB Thickness = NYÁK vastagsága
+PCB Dimension = NYÁK méretei
+Automatic calculation = Automatikus kalkuláció
+PCB Color = NYÁK alapszín
+Green = Zöld
+White = Fehér
+Blue = Kék
+Red = Vörös
+Yellow = Sárga
+Black = Fekete
 Purple = 
 Copper = 
 Gold = 
 Silver = 
-Surface Finish = Oberflächenbehandlung
+Surface Finish = Felületkezelés
 Hasl = Hasl
-Hasl(Lead Free) = Hasl(Beifrei)
+Hasl(Lead Free) = Hasl(ólommentes)
 ENIG = ENIG
 E-Test = E-Test
 Shipping Cost = 
-Cost Estimate = Kostenvoranschlag
-Actual cost will be confirmed by email. = Aktuelle Kosten werden durch E-Mail bestätigt.
-Shipping information = Versandinformationen
-Address = Adresse
-ZIP/Post code = Postleitzahl
-City = Stadt
-Country = Land
+Cost Estimate = Várható árazás
+Actual cost will be confirmed by email. = A jelenlegi árat email-ben hagyják jóvá.
+Shipping information = Szállítási információk
+Address = Cím
+ZIP/Post code = Irányítószám
+City = Város
+Country = Ország
 Tel. = Tel.
 After filling out the form above, we will email you with (i) the results of the Design Rule Checking (DRC), (ii) a quote and (iii) a payment link using Paypal. Shipping is normally one week from receipt of payment. = 
 
 
 
 #Dialog Hot Key config
-Restore All Default Shortcuts = Alle Standart Verknüpfungen wiederherstellen
-Save Changes = Änderungen speichern
+Restore All Default Shortcuts = Parancsikonok visszaállítása
+Save Changes = Változások mentése
 
 
 
 #Dialog Polyline Maybe Wire
-To connect electrical elements, please use Wire (W hotkey) and not Line (L hotkey). = Um elektrische Elemente zu verbinden, benutzen Sie bitte Leitung (W Schnellstaste) und nicht Linie (L Schnelltaste).
+To connect electrical elements, please use Wire (W hotkey) and not Line (L hotkey). = Az elektronikus alkatrészeket a vezeték gyorsbillentyűvel (W) és ne a vonal gyorsbillentyűvel (L) kösd össze.
 
 Anonymous File = 
 Anonymous File can not be cloned, but you can open it, then save it as a new file. = 
